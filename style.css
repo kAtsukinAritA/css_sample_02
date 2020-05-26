@@ -1,0 +1,32 @@
+body {
+    background-color: #E0FFFF;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: #98FB98;
+    color: #CD853F;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : #98FB98;
+    color: #CD853F;
+}
